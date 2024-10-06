@@ -33,8 +33,8 @@
 
 ## 📊 Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman-G-579&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Roman-G-579)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman-G-579&rank_icon=github&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Roman-G-579&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ## 📞 Contact Me
 
