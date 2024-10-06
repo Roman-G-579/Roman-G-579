@@ -1,6 +1,9 @@
-## Hi, I'm Roman! 👋
+## Hi, I'm Roman! 😄
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F88E2A&width=435&lines=Full+Stack+Developer;Software+Engineering+Student)](https://git.io/typing-svg)
+
+## 🎉 Latest Project I Worked on
+**[GPTalk](https://github.com/Oneill19/GPTalk)**
 
 ## 🚀 My Current Stack
 
@@ -24,14 +27,13 @@
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
+[![Webstorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](https://www.jetbrains.com/webstorm/)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ## 📊 Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman-G-579&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman-G-579&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Roman-G-579)](https://git.io/streak-stats)
 
 📞 Contact Me
