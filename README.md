@@ -36,7 +36,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman-G-579&rank_icon=github&theme=github_dark&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
   <span>
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=roman-g-579&theme=github-dark-blue&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400" alt="GitHub Streak" style="margin-top: 20px;"/>
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=roman-g-579&theme=github-dark-blue&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=daily&exclude_days=Sat&card_width=400" alt="GitHub Streak" style="margin-top: 20px;"/>
     </a>
   </span>
 ## 📞 Contact Me
