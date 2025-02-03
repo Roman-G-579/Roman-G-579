@@ -34,7 +34,11 @@
 ## 📊 Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roman-G-579&rank_icon=github&theme=github_dark&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roman-g-579&theme=dark)](https://git.io/streak-stats)
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=roman-g-579&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
 ## 📞 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romanguriy/)
