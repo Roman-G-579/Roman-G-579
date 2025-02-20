@@ -1,6 +1,6 @@
 ## Hi, I'm Roman! 😄
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F88E2A&width=435&lines=Full+Stack+Developer;Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F88E2A&width=435&lines=Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
 
 ## 🎉 Latest Project I Worked on
 **[GPTalk](https://github.com/Roman-G-579/GPTalk)**
